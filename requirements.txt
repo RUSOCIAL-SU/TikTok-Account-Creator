@@ -1,0 +1,9 @@
+requests
+PyCryptor
+pycryptodome
+pycryptodomex
+pycountry
+pytz
+SignerPy==0.12.0
+opencv-python
+numpy
